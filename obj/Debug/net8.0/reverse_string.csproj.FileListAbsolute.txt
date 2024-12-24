@@ -1,0 +1,14 @@
+C:\Users\kap1\Desktop\reverse_string\bin\Debug\net8.0\reverse_string.exe
+C:\Users\kap1\Desktop\reverse_string\bin\Debug\net8.0\reverse_string.deps.json
+C:\Users\kap1\Desktop\reverse_string\bin\Debug\net8.0\reverse_string.runtimeconfig.json
+C:\Users\kap1\Desktop\reverse_string\bin\Debug\net8.0\reverse_string.dll
+C:\Users\kap1\Desktop\reverse_string\bin\Debug\net8.0\reverse_string.pdb
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.AssemblyInfoInputs.cache
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.AssemblyInfo.cs
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.csproj.CoreCompileInputs.cache
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.dll
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\refint\reverse_string.dll
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.pdb
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\reverse_string.genruntimeconfig.cache
+C:\Users\kap1\Desktop\reverse_string\obj\Debug\net8.0\ref\reverse_string.dll
